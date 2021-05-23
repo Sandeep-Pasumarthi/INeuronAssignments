@@ -1,2 +1,2 @@
 # INeuronAssignments
-Assignments given in "Full Stack Data Science" course by INeuron.
+Assignments given in some of the courses by INeuron.
